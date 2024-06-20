@@ -1,4 +1,4 @@
-// let x=confirm("Do you want to proceed");
+let x=confirm("Do you want to proceed");
 if(x){
 	alert("You clicked OK. Proceeding...");
 }
